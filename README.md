@@ -68,10 +68,10 @@ and fuel-based vehicles.
 # ⚒️ Methods Used
 
 - Exploratory Data Analysis (EDA)
-- Business Analysis with SMART Method
-- Data Visualization with Tableau
-- Statistical Analysis & Hypothesis Testing
 - Data Cleaning & Outlier Handling
+- Business Analysis with SMART Method
+- Statistical Analysis & Hypothesis Testing
+- Data Visualization with Tableau
 
 ---
 
