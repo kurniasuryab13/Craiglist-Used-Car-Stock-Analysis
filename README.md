@@ -10,7 +10,7 @@ This project focuses on Exploratory Data Analysis (EDA) and stock analysis
 of used cars listed on Craigslist in the United States. The goal is to uncover
 meaningful insights and actionable wisdom to help BuyACar increase sales
 performance and expand to international markets, with final results visualized
-using Tableau.
+using Tableau to help users see the data.
 
 ---
 
