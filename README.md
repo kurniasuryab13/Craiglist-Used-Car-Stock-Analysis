@@ -7,9 +7,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 This project focuses on Exploratory Data Analysis (EDA) and stock analysis
-of used cars listed on Craigslist Web in the United States. The goal is to uncover
-meaningful insights and actionable wisdom to help BuyACar increase sales
-performance and expand to international markets, with final results visualized
+of used cars listed on Craigslist Web in the United States. The goal is to give
+meaningful insights and actionable wisdom and help BuyACar increase sales
+performance bring expand to international markets, with final results visualized
 using Tableau to help users see the data.
 
 ---
