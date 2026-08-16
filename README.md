@@ -74,22 +74,22 @@ and fuel-based vehicles.
 - Data Visualization with Tableau
 
 **Regional Distribution**
-The used car stock is mostly concentrated in California, Florida, Texas, New York, and Ohio. Sales efforts should focus on these states. To reduce shipping costs and logistics complexity for out-of-state sales, it's best to prioritize buyers in neighboring states rather than far-away ones.
+- The used car stock is mostly concentrated in California, Florida, Texas, New York, and Ohio. Sales efforts should focus on these states. To reduce shipping costs and logistics complexity for out-of-state sales, it's best to prioritize buyers in neighboring states rather than far-away ones.
 
 **Brand Trends**
-Ford, Chevrolet, Toyota, Honda, and Nissan dominate the market, showing strong stock levels and consumer interest in these brands. American brands can be marketed using a "local pride" angle, while Japanese brands can be promoted for their reputation for durability and reliability.
+- Ford, Chevrolet, Toyota, Honda, and Nissan dominate the market, showing strong stock levels and consumer interest in these brands. American brands can be marketed using a "local pride" angle, while Japanese brands can be promoted for their reputation for durability and reliability.
 
 **Vehicle Age**
-Most vehicles are from 2000–2020. Cars made before 2000 are limited in number and need a targeted promotion strategy aimed at vintage/classic car enthusiasts, so this older stock keeps moving and doesn't sit unsold long enough to become scrap.
+- Most vehicles are from 2000–2020. Cars made before 2000 are limited in number and need a targeted promotion strategy aimed at vintage/classic car enthusiasts, so this older stock keeps moving and doesn't sit unsold long enough to become scrap.
 
 **Transmission Type**
-Automatic transmission vehicles make up 93.9% of the stock, reflecting strong market preference for comfort and ease of use. Automatics are now widely seen as suitable for both long-distance and short-distance driving, which supports this trend.
+- Automatic transmission vehicles make up 93.9% of the stock, reflecting strong market preference for comfort and ease of use. Automatics are now widely seen as suitable for both long-distance and short-distance driving, which supports this trend.
 
 **Pricing**
-Prices are fairly stable around an average of $12,211, with no extreme outliers. This means there's room for two strategies: selling below-average-priced cars that are in good condition and have a "classic" appeal, and marketing higher-priced cars by highlighting their advanced features.
+- Prices are fairly stable around an average of $12,211, with no extreme outliers. This means there's room for two strategies: selling below-average-priced cars that are in good condition and have a "classic" appeal, and marketing higher-priced cars by highlighting their advanced features.
 
 **Electric vs. Gas Price Comparison**
-A hypothesis test shows a statistically significant price difference between electric and gas-powered vehicles, though the overall gap is relatively small. However, this difference can appear much larger when looking at a single state in isolation. This suggests electric vehicles aren't necessarily expensive — especially considering their relatively stable charging costs and eco-friendly, modern appeal.
+- A hypothesis test shows a statistically significant price difference between electric and gas-powered vehicles, though the overall gap is relatively small. However, this difference can appear much larger when looking at a single state in isolation. This suggests electric vehicles aren't necessarily expensive — especially considering their relatively stable charging costs and eco-friendly, modern appeal.
 
 ---
 
