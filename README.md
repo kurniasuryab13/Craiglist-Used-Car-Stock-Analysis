@@ -99,10 +99,10 @@ and fuel-based vehicles.
 the steps for Exploratory Data Analysis (EDA), data cleaning, statistical
 analysis, and business insights based on the SMART method.
 
-- `vehicles2.csv` : The raw dataset before preprocessing,
+- `vehicles2.csv` : Sheet/Excel file contains raw dataset before preprocessing,
 used as the original source for analysis.
 
-- `vehicles2_cleaning.csv` : The cleaned dataset after preprocessing,
+- `vehicles2_cleaning.csv` : Sheet/Excel file contains cleaned dataset after preprocessing,
 used for analysis and Tableau visualization.
 
 ---
